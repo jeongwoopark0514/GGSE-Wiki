@@ -60,7 +60,7 @@ The socio-technical nature of software development makes interaction complex whe
 12. “Project managers should take into account cultural differences during group exercises”, and improve control by preventing misunderstandings and delays.
 
 ## Scrum phases affected by cultural differences
-Agile is a manifesto that is like a compass. One can always adhere to the Agile methodology, by following its principles, no matter the method. One of the agile methods is Scrum.
+Agile is a manifesto that is like a compass. One can always adhere to the Agile methodology, by following its principles, no matter the method. One of the agile methods is Scrum. In this section, the common cultural issues happening in Scrum setting are discussed to grasp an idea via more practical examples.
 
 Scrum is an empirical approach, that uses a backlog, containing a list of items that need to be implemented. The whole development process consists of sprints which are development cycles. The Sprint consist of Scrum events; in the Sprint planning, the issues that are to be worked in during the sprint are discussed. At the end of each Sprint is the Sprint Review and Sprint Retrospective. During the review, the outcome of the Sprint is inspected and future adaptations are determined. The purpose of the Sprint retrospective is to plan ways to increase quality and effectiveness. Lastly, there are daily scrums during which progress toward the Sprint Goal is inspected and the Sprint Backlog is adapted as necessary, adjusting the upcoming planned work. During each of these cycles, cultural differences between teams or individuals in teams can impact the productivity of the method (Scrum. Org, 2022).
 
