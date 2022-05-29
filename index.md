@@ -39,6 +39,10 @@ Distributed software engineering comes with the collaboration of people with dif
 * Long-term orientation: to what extent is the focus of the organisation and its employers on the long-term horizon?
 * Indulgence: focuses on to what level personal needs and the concept of “enjoying life” is accepted in a culture or organisation (Dafoulas & Macaulay, 2002).
 
+A comparison between the scores on Hofstede's six cultural dimensions of four countries has been made: The Netherlands, The United States, Brazil and China. As can be seen in the figure below, a noticable differences are that China and Brazil score relatively low on the individualism pillar while the Netherlands and US score high. Based on that information, it can be said that the Chinese and Brazilians see more value in working towards a common goal instead of personal goals. Besides that, China is the only country of the four that scores relatively low on level of indulgence. In the other three countries, personal needs are more accepted within organisations.
+
+## ADD HOFSTEDE IMAGE HERE
+
 Another general cultural difference is language. While English is the standard language, not everyone speaks it fluently. People may have different interpretations of, for example, written requirements. This can result in the various understanding of the client’s requirements as a development team relies on written or spoken communication (Patel, Lawson-Johnson & Patel, 2009).
 
 From research, it can be concluded that the attitude toward time spent on working and deadlines are opposed to each other. At the start of a project, people from the Middle East will spend time getting to know each other, while people from the US are more focused on the deadline and start working quickly with less focus on getting to know their colleagues (Patel, Lawson-Johnson & Patel, 2009). This influences the outcome of the final product as the team did not understand each other from the beginning and thus leads to complexities in communication and collaboration.
