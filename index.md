@@ -14,7 +14,7 @@ Unfortunately, there is no fixed agile method to apply to distributed setting as
 3. Adjust work schedules to reduce time-related issues coming from the time differences.
 4. Use message boards or Wiki instead of email.
 
-## Challenges in agile development in a distributed setting
+### Challenges in agile development in a distributed setting
 Challenges are coming from the distributed environment itself. Distributed settings bring problems such as Strategic issues, Cultural issues, Inadequate communication, Knowledge management, Project and process management issues, technical issues, and Risk Management (Shrivastava & Date, 2010).
 
 There are also challenges coming from the compatibility between agile and distributed settings (Shrivastava & Date, 2010).
@@ -41,7 +41,7 @@ Another general cultural difference is language. While English is the standard l
 
 From research, it can be concluded that the attitude toward time spent on working and deadlines are opposed to each other. At the start of a project, people from the Middle East will spend time getting to know each other, while people from the US are more focused on the deadline and start working quickly with less focus on getting to know their colleagues (Patel, Lawson-Johnson & Patel, 2009). This influences the outcome of the final product as the team did not understand each other from the beginning and thus leads to complexities in communication and collaboration.
 
-## Mitigation of problems caused by cultural differences related to communication, coordination and control
+### Mitigation of problems caused by cultural differences related to communication, coordination and control
 The socio-technical nature of software development makes interaction complex when culture differs, such as behaviour, beliefs, values and patterns. The paper above contributes twelve practices derived from nineteen different studies to provide awareness and understanding of culture to prevent conflict, and mistrust, to achieve maximum performance with the available expertise. The paper further proposes specific activity patterns per point for teams to implement in their work.
 
 1. “Understand and be aware of cultural differences”, improves communication and coordination by understanding the different backgrounds of members and knowing what behaviour is and isn’t acceptable in different cultures.
