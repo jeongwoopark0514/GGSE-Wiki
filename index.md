@@ -41,7 +41,7 @@ Distributed software engineering comes with the collaboration of people with dif
 
 A comparison between the scores on Hofstede's six cultural dimensions of four countries has been made: The Netherlands, The United States, Brazil and China. As can be seen in the figure below, a noticable differences are that China and Brazil score relatively low on the individualism pillar while the Netherlands and US score high. Based on that information, it can be said that the Chinese and Brazilians see more value in working towards a common goal instead of personal goals. Besides that, China is the only country of the four that scores relatively low on level of indulgence. In the other three countries, personal needs are more accepted within organisations.
 
-# Add hofstede_cultural_dimensions here
+![image](/images/hofstede_cultural_dimensions.png)
 
 Another general cultural difference is language. While English is the standard language, not everyone speaks it fluently. People may have different interpretations of, for example, written requirements. This can result in the various understanding of the client’s requirements as a development team relies on written or spoken communication (Patel, Lawson-Johnson & Patel, 2009).
 
@@ -67,6 +67,8 @@ The socio-technical nature of software development makes interaction complex whe
 Agile is a manifesto that is like a compass. One can always adhere to the Agile methodology, by following its principles, no matter the method. One of the agile methods is Scrum. In this section, the common cultural issues happening in Scrum setting are discussed to grasp an idea via more practical examples.
 
 Scrum is an empirical approach, that uses a backlog, containing a list of items that need to be implemented. The whole development process consists of sprints which are development cycles. The Sprint consist of Scrum events; in the Sprint planning, the issues that are to be worked in during the sprint are discussed. At the end of each Sprint is the Sprint Review and Sprint Retrospective. During the review, the outcome of the Sprint is inspected and future adaptations are determined. The purpose of the Sprint retrospective is to plan ways to increase quality and effectiveness. Lastly, there are daily scrums during which progress toward the Sprint Goal is inspected and the Sprint Backlog is adapted as necessary, adjusting the upcoming planned work. During each of these cycles, cultural differences between teams or individuals in teams can impact the productivity of the method (Scrum. Org, 2022).
+
+![image](/images/scrum.png)
 
 The following cultural differences are commonly present in distributed SE development Scrum events:
 
