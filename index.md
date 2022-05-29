@@ -28,6 +28,8 @@ There are also challenges coming from the compatibility between agile and distri
 Besides these issues, there are other challenges such as lack of team cohesion, formal and informal agreement, and so on (Ramesh et al., 2006).
 
 ## Common cultural differences in distributed SE development
+One of the key challenges discovered from the previous section is 'Cultural Diversity'. Cultural Diversity can certainly bring some benefits to the team. The heterogeneous groups have higher level of collaboration and conflict management, so they tend to achieve consensus in a higher quality (Paul et al., 2004). Cultural diversity can also bring creativity, innovation and problem solving skills within the team (Milewski et al., 2008). However, cultural difference can also negatively affect the team. Thus, it is crucial to look at what kind of cultural challenges can occur while working in Agile setting, which is a common methodology used by many companies. 
+
 Distributed software engineering comes with the collaboration of people with different cultures and habits. This means that the ability to cover these cultural differences can lead to a better understanding within a team. Hofstede made a distinction between six types of cultural dimensions (Van Solingen, 2022).
 
 * Power distance index: to what level do individuals accept hierarchy and use of powers within the organisation?
@@ -63,6 +65,7 @@ Agile is a manifesto that is like a compass. One can always adhere to the Agile 
 Scrum is an empirical approach, that uses a backlog, containing a list of items that need to be implemented. The whole development process consists of sprints which are development cycles. The Sprint consist of Scrum events; in the Sprint planning, the issues that are to be worked in during the sprint are discussed. At the end of each Sprint is the Sprint Review and Sprint Retrospective. During the review, the outcome of the Sprint is inspected and future adaptations are determined. The purpose of the Sprint retrospective is to plan ways to increase quality and effectiveness. Lastly, there are daily scrums during which progress toward the Sprint Goal is inspected and the Sprint Backlog is adapted as necessary, adjusting the upcoming planned work. During each of these cycles, cultural differences between teams or individuals in teams can impact the productivity of the method (Scrum. Org, 2022).
 
 The following cultural differences are commonly present in distributed SE development Scrum events:
+
 | Scrum event | Cultural difference | Effect | Solution|
 |-----|---------|--------------------------|-----------------------------|
 | Backlog | Misunderstandings of requirements. | In the worst case, the misunderstanding may not have been noticed until the demo. | Product owners have to ask follow-up questions. |
@@ -96,3 +99,7 @@ Paasivaara, M., Durasiewicz, S., & Lassenius, C. (2008). Using scrum in a global
 Paasivaara, M., Lassenius, C., Damian, D., Räty, P., & Schröter, A. (2013). Teaching students global software engineering skills using distributed Scrum. 2013 35th International Conference on Software Engineering (ICSE), 1128–1137. https://doi.org/10.1109/ICSE.2013.6606664
 
 The Scrum Guide. (2020). Scrum.Org. Retrieved from https://www.scrum.org/resources/scrum-guide
+
+Paul, S., Samarah, I., Seetharaman, P., & Mykytyn, P. (2004). An Empirical Investigation of Collaborative Conflict Management Style in Group Support System-Based Global Virtual Teams. Journal of Management Information Systems, 21, 185 - 222.
+
+Milewski, A.E., Tremaine, M.M., Egan, R., Zhang, S., Köbler, F., & O'Sullivan, P. (2008). Guidelines for Effective Bridging in Global Software Engineering. 2008 IEEE International Conference on Global Software Engineering, 23-32.
