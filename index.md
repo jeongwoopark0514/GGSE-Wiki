@@ -20,7 +20,7 @@ Unfortunately, there is no fixed agile method to apply to distributed setting as
 4. Use message boards or Wiki instead of email.
 
 ### Challenges in agile development in a distributed setting
-Challenges are coming from the distributed environment itself. Distributed settings bring problems such as Strategic issues, Cultural issues, Inadequate communication, Knowledge management, Project and process management issues, technical issues, and Risk Management (Shrivastava & Date, 2010).
+Challenges are coming from the distributed environment itself. Distributed settings bring problems such as Strategic issues, Cultural issues, Inadequate communication, Knowledge management, Project and process management issues, technical issues, and Risk Management (Shrivastava & Date, 2010). Temporal distance and Geographical distance are also physical problems that are not easy to be directly solved with the technologies unless the developer moves across the globe. For instance, zero overlapping time can be a problem when organising a meeting or an event that should happen synchronously. It is also hard to feel intimate when the team members are all physically apart. Fortunately, by utilising temporal distance properly, follow-the-sun development can be implemented, so there are not only drawbacks in the distributed environment.
 
 There are also challenges coming from the compatibility between agile and distributed settings (Shrivastava & Date, 2010).
 
