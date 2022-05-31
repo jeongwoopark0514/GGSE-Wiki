@@ -8,6 +8,8 @@ Welcome to the Wiki introducing Distributed Agile Development Practices. First, 
 
 Agile is a well-known term in software engineering, but what is it exactly? Based on the article (Abrahamsson et al., 2017), call software development methodology is agile when software development is incremental (small software releases, with rapid cycles), cooperative (customer and developers working constantly together with close communication), straightforward (the method itself is easy to learn and to modify, well documented), and adaptive (able to make last moment changes).
 
+Agile Manifesto also has been set up by 17 developers at The Lodge at Snowbird ski resort in Utah (Beck et al., 2013). This Manifesto includes 4 values for agile and 12 principles. The well-known values are the following: **Individuals and interactions** over processes and tools, **Working software** over comprehensive documentation, **Customer collaboration** over contract negotiation, and **Responding to change** over following a plan. These 4 values are intended to improve a software development process by guiding the development to a better direction and delivering a high-quality, working software that meets consumers' needs.
+
 While lots of companies are adopting agile methodology, globalisation is also taking place in the IT industry. Tight budgets, limited resources, and time constraints have motivated many companies to explore global sourcing (Šmite et al., 2010). As a result, companies could gain more benefits, but also need to face new problems related to communication, coordination, collaboration, etc.
 
 Unfortunately, there is no fixed agile method to apply to distributed setting as of yet due to compatibility issues (Šmite et al., 2010). We can still learn from additional tips suggested by (Phalnikar et al., 2009).
@@ -112,3 +114,5 @@ The Scrum Guide. (2020). Scrum.Org. Retrieved from https://www.scrum.org/resourc
 Paul, S., Samarah, I., Seetharaman, P., & Mykytyn, P. (2004). An Empirical Investigation of Collaborative Conflict Management Style in Group Support System-Based Global Virtual Teams. Journal of Management Information Systems, 21, 185 - 222.
 
 Milewski, A.E., Tremaine, M.M., Egan, R., Zhang, S., Köbler, F., & O'Sullivan, P. (2008). Guidelines for Effective Bridging in Global Software Engineering. 2008 IEEE International Conference on Global Software Engineering, 23-32.
+
+Beck, K.L., Beedle, M.A., Bennekum, A.V., Cockburn, A., Cunningham, W., Fowler, M., Grenning, J., Highsmith, J., Hunt, A., Jeffries, R., Kern, J., Marick, B., Martin, R.C., Mellor, S.J., Schwaber, K., Sutherland, J., & Thomas, D.A. (2013). Manifesto for Agile Software Development.
