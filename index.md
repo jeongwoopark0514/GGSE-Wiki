@@ -8,6 +8,8 @@ Welcome to the Wiki introducing Distributed Agile Development Practices. The goa
 
 Agile is a well-known term in software engineering, but what is it exactly? Based on the article (Abrahamsson et al., 2017), call software development methodology is agile when software development is incremental (small software releases, with rapid cycles), cooperative (customer and developers working constantly together with close communication), straightforward (the method itself is easy to learn and to modify, well documented), and adaptive (able to make last moment changes).
 
+Agile Manifesto also has been set up by 17 developers at The Lodge at Snowbird ski resort in Utah (Beck et al., 2013). This Manifesto includes 4 values for agile and 12 principles. The well-known values are the following: **Individuals and interactions** over processes and tools, **Working software** over comprehensive documentation, **Customer collaboration** over contract negotiation, and **Responding to change** over following a plan. These 4 values are intended to improve a software development process by guiding the development to a better direction and delivering a high-quality, working software that meets consumers' needs.
+
 While lots of companies are adopting agile methodology, globalisation is also taking place in the IT industry. Tight budgets, limited resources, and time constraints have motivated many companies to explore global sourcing (Šmite et al., 2010). As a result, companies could gain more benefits, but also need to face new problems related to communication, coordination, collaboration, etc.
 
 Unfortunately, there is no fixed agile method to apply to the distributed setting as of yet due to compatibility issues (Šmite et al., 2010). We can still learn from additional tips suggested by (Phalnikar et al., 2009).
@@ -18,7 +20,7 @@ Unfortunately, there is no fixed agile method to apply to the distributed settin
 4. Use message boards or Wiki instead of email.
 
 ### Challenges in agile development in a distributed setting
-Challenges are coming from the distributed environment itself. Distributed settings bring problems such as Strategic issues, Cultural issues, Inadequate communication, Knowledge management, Project and process management issues, technical issues, and Risk Management (Shrivastava & Date, 2010).
+Challenges are coming from the distributed environment itself. Distributed settings bring problems such as Strategic issues, Cultural issues, Inadequate communication, Knowledge management, Project and process management issues, technical issues, and Risk Management (Shrivastava & Date, 2010). Temporal distance and Geographical distance are also physical problems that are not easy to be directly solved with the technologies unless the developer moves across the globe. For instance, zero overlapping time can be a problem when organising a meeting or an event that should happen synchronously. It is also hard to feel intimate when the team members are all physically apart. Fortunately, by utilising temporal distance properly, follow-the-sun development can be implemented, so there are not only drawbacks in the distributed environment.
 
 There are also challenges coming from the compatibility between agile and distributed settings (Shrivastava & Date, 2010).
 
@@ -146,3 +148,4 @@ Milewski, A.E., Tremaine, M.M., Egan, R., Zhang, S., Köbler, F., & O'Sullivan, 
 Hossain, E., Babar, M. A., & Paik, H. (2009). Using scrum in global software development: A systematic literature review. 2009 Fourth IEEE International Conference on Global Software Engineering, 175–184. https://doi.org/10.1109/ICGSE.2009.25
 
 Zhao, C. (2015). Impact of national culture dimensions on scrum implementations. Undefined. https://www.semanticscholar.org/paper/Impact-of-National-Culture-Dimensions-on-Scrum-Zhao/44ff6e3d9ca1c36b099bb34dfff8a73015a7090a
+Beck, K.L., Beedle, M.A., Bennekum, A.V., Cockburn, A., Cunningham, W., Fowler, M., Grenning, J., Highsmith, J., Hunt, A., Jeffries, R., Kern, J., Marick, B., Martin, R.C., Mellor, S.J., Schwaber, K., Sutherland, J., & Thomas, D.A. (2013). Manifesto for Agile Software Development.
