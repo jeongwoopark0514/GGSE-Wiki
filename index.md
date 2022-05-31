@@ -1,6 +1,6 @@
 # Agile and Cultural Difference
 
-Welcome to the Wiki introducing Distributed Agile Development Practices. First, this wiki will explain what the agile methodology is. The original agile methodology was created to help create better ways of software development. However, as companies are expanding to other countries, the agile methodology also has to work in a distributed setting. With the distance between developers, communication, coordination and control suffer. In this wiki, we will dive into agile development in distributed setting and its challenges. Furthermore, common cultural differences in distributed software development are explained. Lastly, Scrum is explained and the cultural challenges affecting its phases are explained.
+Welcome to the Wiki introducing Distributed Agile Development Practices. The goal of this wiki is to introduce the main challenges introduced by distributed agile. By presenting the common cultural differences, as well as how it impacts the Scrum methodology, we hope to surface the problems so you can take these into account when working in a distributed setting. First, this wiki will explain what the agile methodology is. The original agile methodology was created to help create better ways of software development. However, as companies are expanding to other countries, the agile methodology also has to work in a distributed setting. With the distance between developers, communication, coordination and control suffer. In this wiki, we will dive into agile development in distributed setting and its challenges. Furthermore, common cultural differences in distributed software development are explained. Lastly, Scrum is explained and the cultural challenges affecting its phases are explained. 
 
 ## Agile in distributed settings
 
@@ -10,7 +10,7 @@ Agile is a well-known term in software engineering, but what is it exactly? Base
 
 While lots of companies are adopting agile methodology, globalisation is also taking place in the IT industry. Tight budgets, limited resources, and time constraints have motivated many companies to explore global sourcing (Šmite et al., 2010). As a result, companies could gain more benefits, but also need to face new problems related to communication, coordination, collaboration, etc.
 
-Unfortunately, there is no fixed agile method to apply to distributed setting as of yet due to compatibility issues (Šmite et al., 2010). We can still learn from additional tips suggested by (Phalnikar et al., 2009).
+Unfortunately, there is no fixed agile method to apply to the distributed setting as of yet due to compatibility issues (Šmite et al., 2010). We can still learn from additional tips suggested by (Phalnikar et al., 2009).
 
 1. Document appropriately whenever necessary.
 2. Customer Proxy should interact and communicate well with both technical and business project members.
@@ -31,7 +31,7 @@ There are also challenges coming from the compatibility between agile and distri
 Besides these issues, there are other challenges such as lack of team cohesion, formal and informal agreement, and so on (Ramesh et al., 2006).
 
 ## Common cultural differences in distributed SE development
-The globalisation is taking place everywhere, but people from different countries have different work ethics, culture, individual perception and etc. One of the key challenges discovered from the previous section is 'Cultural Diversity'. Cultural Diversity can certainly bring some benefits to the team. The heterogeneous groups have higher level of collaboration and conflict management, so they tend to achieve consensus in a higher quality (Paul et al., 2004). Cultural diversity can also bring creativity, innovation and problem solving skills within the team (Milewski et al., 2008). However, cultural difference can also negatively affect the team. Thus, it is crucial to look at what kind of cultural challenges can occur while working in Agile setting, which is a common methodology used by many companies.
+Globalisation is taking place everywhere, but people from different countries have different work ethics, culture, individual perception, etc. One of the key challenges discovered in the previous section is 'Cultural Diversity'. Cultural Diversity can certainly bring some benefits to the team. The heterogeneous groups have a higher level of collaboration and conflict management, so they tend to achieve consensus of higher quality (Paul et al., 2004). Cultural diversity can also bring creativity, innovation and problem-solving skills to the team (Milewski et al., 2008). However, the cultural difference can also negatively affect the team. Thus, it is crucial to look at what kind of cultural challenges can occur while working in an Agile setting, which is a common methodology used by many companies.
 
 Distributed software engineering comes with the collaboration of people with different cultures and habits. This means that the ability to cover these cultural differences can lead to a better understanding within a team. Hofstede made a distinction between six types of cultural dimensions (Van Solingen, 2022).
 
@@ -42,7 +42,7 @@ Distributed software engineering comes with the collaboration of people with dif
 * Long-term orientation: to what extent is the focus of the organisation and its employers on the long-term horizon?
 * Indulgence: focuses on to what level personal needs and the concept of “enjoying life” is accepted in a culture or organisation (Dafoulas & Macaulay, 2002).
 
-A comparison between the scores on Hofstede's six cultural dimensions of four countries has been made: The Netherlands, The United States, Brazil and China. As can be seen in the figure below, a noticable differences are that China and Brazil score relatively low on the individualism pillar while the Netherlands and US score high. Based on that information, it can be said that the Chinese and Brazilians see more value in working towards a common goal instead of personal goals. Besides that, China is the only country of the four that scores relatively low on level of indulgence. In the other three countries, personal needs are more accepted within organisations.
+A comparison between the scores on Hofstede's six cultural dimensions of four countries has been made: The Netherlands, The United States, Brazil and China. As can be seen in the figure below, noticeable differences are that China and Brazil score relatively low on the individualism pillar while the Netherlands and US score high. Based on that information, it can be said that the Chinese and Brazilians see more value in working towards a common goal instead of personal goals. Besides that, China is the only country of the four that scores relatively low on the level of indulgence. In the other three countries, personal needs are more accepted within organisations.
 
 ![image](/images/hofstede_cultural_dimensions.png)
 
@@ -67,20 +67,50 @@ The socio-technical nature of software development makes interaction complex whe
 12. “Project managers should take into account cultural differences during group exercises”, and improve control by preventing misunderstandings and delays.
 
 ## Scrum phases affected by cultural differences
-Agile is a manifesto that is like a compass. One can always adhere to the Agile methodology, by following its principles, no matter the method. One of the agile methods is Scrum. In this section, the common cultural issues happening in Scrum setting are discussed to grasp an idea via more practical examples.
 
-Scrum is an empirical approach, that uses a backlog, containing a list of items that need to be implemented. The whole development process consists of sprints which are development cycles. The Sprint consist of Scrum events; in the Sprint planning, the issues that are to be worked in during the sprint are discussed. At the end of each Sprint is the Sprint Review and Sprint Retrospective. During the review, the outcome of the Sprint is inspected and future adaptations are determined. The purpose of the Sprint retrospective is to plan ways to increase quality and effectiveness. Lastly, there are daily scrums during which progress toward the Sprint Goal is inspected and the Sprint Backlog is adapted as necessary, adjusting the upcoming planned work. During each of these cycles, cultural differences between teams or individuals in teams can impact the productivity of the method (Scrum. Org, 2022).
+Agile is a manifesto that is like a compass. One can always adhere to the Agile methodology, by following its principles, no matter the method. One of the agile methods is Scrum. In the previous section <!-- add link to previous section or ref -->, six types of cultural dimensions were mentioned. In this section, the effect of the difficulties from the different cultural dimensions are identified. Specifically, how the different Scrum phases are affected by these differences. 
 
-![image](/images/scrum.png)
+![Scrum practice](./images/scrum.png)
+
+Scrum is an empirical approach facilitated by rich communication, a collaborative environment and is usually considered effective for co-located projects with small team sizes. It uses a backlog, containing a list of items that need to be implemented (Hossain, 2009). The whole development process consists of sprints which are development cycles. The Sprint consist of Scrum events; in the Sprint planning, the issues that are to be worked in during the sprint are discussed. At the end of each Sprint is the Sprint Review and Sprint Retrospective. During the review, the outcome of the Sprint is inspected and future adaptations are determined. The purpose of the Sprint retrospective is to plan ways to increase quality and effectiveness. Lastly, there are daily scrums during which progress toward the Sprint Goal is inspected and the Sprint Backlog is adapted as necessary, adjusting the upcoming planned work. During each of these cycles, cultural differences between teams or individuals in teams can impact the productivity of the method (Scrum. Org, 2022).
+
+The following cultural dimensions have a great effect on the Scrum process and are discussed in further detail.
+
+### Power distance index <!-- : to what level do individuals accept hierarchy and use of powers within the organisation? -->
+<!-- * In certain cultures there is a strict workplace hierarchy. Individuals may have trouble asking follow-up questions to a product owner. This problem can be mitigated by the product owner asking the individuals if they have questions. 
+* Daily scrum, sprint planning-->
+* In cultures with a large power distance the **product owner** will have more monitoring of work and on the team compared to cultures with a small power distance. Whether the product owner attends meetings may depend on the culture and their power index. 
+* If a product owner or manager is attending the more informal meetings or **Daily Scrums**, the team may be affected in their communication due to a large power distance.
+* The **Scrum master** is expected to be more obvious in his/her function, in terms of managing the team and initiative, in societies where there is a large power index.
+* A **Scrum leader** may be assigned in cultures with a large power distance. Whereas in cultures with a small power distance, leaders and subordinates tend to be more informal and assign tasks among themselves.
+* **Sprint teams** in cultures with small power distance have equal roles among members. Cultures with a large power distance can have informal job divisions and informal hierarchies. 
+* The **Sprint** is not allowed to be interfered with by anyone outside the Scrum team. However, Scrum team sprints may get affected by someone outside a team, for example, a product owner, due to the large power distance culture that a team has.
+
+<!-- ### Individualism vs. collectivism: do the employees/individuals in the organisation have a goal together or is it focused on personal goals? -->
+
+### Masculinity vs. femininity <!-- : the level of “toughness” in an organisation and attitude towards sexuality equality -->
+* People in a feminist society prefer working in smaller groups. Whereas countries in a masculine society prefer working in larger groups. Countries such as Sweden are more feminist. While countries like China are more masculine.
+* In masculine cultures it is expected from the **Scrum master** to be decisive and assertive when it comes to decision making.
+
+### Uncertainty Avoidance Index (UAI) <!-- : cultures with a high UAI have a low tolerance for uncertainty, and are risk-averse and vice versa. -->
+* Cultures with a strong uncertainty avoidance society perceive higher stress and subjective feeling of anxiety. Thus, people from these cultures have more desire for precision, formalization and time management. This can affect the **Daily Scrum** and other meetings.
+* Furthermore, strong uncertainty avoidance cultures see money as money and chase precision. They often prefer to follow the rules. This can affect their attitude towards **Sprint time limitation** and how they manage time in Sprints.
+* Weak uncertainty avoidance cultures find making the decision more important than the decision contents. This can be apparent in the behaviour of the **Scrum master**.
+* In cultures with strong uncertainty avoidance, people have more inner drive to work hard compared to the weak uncertainty avoidance cultures. Reflecting the team's efforts they put into work and how their relationship between work and leisure.
+* Time-boxed meetings, such as **Sprint planning** or **Daily Scrum** may not be as strict in time. They may take longer if the attitude towards time and formalization differ. 
+
+
+<!--### Long-term orientation: to what extent is the focus of the organisation and its employers on the long-term horizon? -->
+
+<!-- ### Indulgence: focuses on to what level personal needs and the concept of “enjoying life” is accepted in a culture or organisation (Dafoulas & Macaulay, 2002). -->
+### Other cultural aspects 
 
 The following cultural differences are commonly present in distributed SE development Scrum events:
-
 | Scrum event | Cultural difference | Effect | Solution|
 |-----|---------|--------------------------|-----------------------------|
 | Backlog | Misunderstandings of requirements. | In the worst case, the misunderstanding may not have been noticed until the demo. | Product owners have to ask follow-up questions. |
 | Daily Scrum   | During the daily scrum meetings, specifically at the beginning of the development, people from Asian cultures take time to open up and tell about their tasks and impediments. Whereas people from Western cultures are more open (Paasivara, 2008). | This can result in short daily meetings, that take only a couple of minutes | Encourage the team to open up and communicate outside of the meetings. |
 | Sprint planning | Cultural and language differences can cause silence or misunderstandings among some participants. | People from Asian cultures tend to not ask enough. Whereas people from Western cultures see Sprint planning as an opportunity to transfer business-related knowledge. Furthermore, some cultures tend to speak more directly whereas other cultures prefer to have more small talk (Paasivara, 2013) | Give a possibility for team members from all sites to participate to ask for clarifications, to understand tasks, and to commit to common goals. |
-
 
 **References** <br/>
 Dafoulas, G., & Macaulay, L. (2002). Investigating cultural differences in virtual software teams. The Electronic Journal of Information Systems in Developing Countries, 7(1), 1-14. <br/>
@@ -112,3 +142,7 @@ The Scrum Guide. (2020). Scrum.Org. Retrieved from https://www.scrum.org/resourc
 Paul, S., Samarah, I., Seetharaman, P., & Mykytyn, P. (2004). An Empirical Investigation of Collaborative Conflict Management Style in Group Support System-Based Global Virtual Teams. Journal of Management Information Systems, 21, 185 - 222.
 
 Milewski, A.E., Tremaine, M.M., Egan, R., Zhang, S., Köbler, F., & O'Sullivan, P. (2008). Guidelines for Effective Bridging in Global Software Engineering. 2008 IEEE International Conference on Global Software Engineering, 23-32.
+
+Hossain, E., Babar, M. A., & Paik, H. (2009). Using scrum in global software development: A systematic literature review. 2009 Fourth IEEE International Conference on Global Software Engineering, 175–184. https://doi.org/10.1109/ICGSE.2009.25
+
+Zhao, C. (2015). Impact of national culture dimensions on scrum implementations. Undefined. https://www.semanticscholar.org/paper/Impact-of-National-Culture-Dimensions-on-Scrum-Zhao/44ff6e3d9ca1c36b099bb34dfff8a73015a7090a
