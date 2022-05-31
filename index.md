@@ -3,6 +3,9 @@
 Welcome to the Wiki introducing Distributed Agile Development Practices. First, this wiki will explain what the agile methodology is. The original agile methodology was created to help create better ways of software development. However, as companies are expanding to other countries, the agile methodology also has to work in a distributed setting. With the distance between developers, communication, coordination and control suffer. In this wiki, we will dive into agile development in distributed setting and its challenges. Furthermore, common cultural differences in distributed software development are explained. Lastly, Scrum is explained and the cultural challenges affecting its phases are explained.
 
 ## Agile in distributed settings
+
+![image](/images/agile2.png)
+
 Agile is a well-known term in software engineering, but what is it exactly? Based on the article (Abrahamsson et al., 2017), call software development methodology is agile when software development is incremental (small software releases, with rapid cycles), cooperative (customer and developers working constantly together with close communication), straightforward (the method itself is easy to learn and to modify, well documented), and adaptive (able to make last moment changes).
 
 While lots of companies are adopting agile methodology, globalisation is also taking place in the IT industry. Tight budgets, limited resources, and time constraints have motivated many companies to explore global sourcing (Šmite et al., 2010). As a result, companies could gain more benefits, but also need to face new problems related to communication, coordination, collaboration, etc.
