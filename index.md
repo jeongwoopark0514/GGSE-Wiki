@@ -108,6 +108,7 @@ The following cultural dimensions have a great effect on the Scrum process and a
 ### Other cultural aspects 
 
 The following cultural differences are commonly present in distributed SE development Scrum events:
+
 | Scrum event | Cultural difference | Effect | Solution|
 |-----|---------|--------------------------|-----------------------------|
 | Backlog | Misunderstandings of requirements. | In the worst case, the misunderstanding may not have been noticed until the demo. | Product owners have to ask follow-up questions. |
