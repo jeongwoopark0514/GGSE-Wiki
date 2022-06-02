@@ -44,7 +44,7 @@ Distributed software engineering comes with the collaboration of people with dif
 * Long-term orientation: to what extent is the focus of the organisation and its employers on the long-term horizon?
 * Indulgence: focuses on to what level personal needs and the concept of “enjoying life” is accepted in a culture or organisation (Dafoulas & Macaulay, 2002).
 
-A comparison between the scores on Hofstede's six cultural dimensions of four countries has been made: The Netherlands, The United States, Brazil and China. As can be seen in the figure below, noticeable differences are that China and Brazil score relatively low on the individualism pillar while the Netherlands and US score high. Based on that information, it can be said that the Chinese and Brazilians see more value in working towards a common goal instead of personal goals. Besides that, China is the only country of the four that scores relatively low on the level of indulgence. In the other three countries, personal needs are more accepted within organisations.
+A comparison between the scores on Hofstede's six cultural dimensions of four countries has been made: The Netherlands, The United States, Brazil and China (Hofstede Insights, 2022). As can be seen in the figure below, noticeable differences are that China and Brazil score relatively low on the individualism pillar while the Netherlands and US score high. Based on that information, it can be said that the Chinese and Brazilians see more value in working towards a common goal instead of personal goals. Besides that, China is the only country of the four that scores relatively low on the level of indulgence. In the other three countries, personal needs are more accepted within organisations.
 
 ![image](/images/hofstede_cultural_dimensions.png)
 
@@ -135,6 +135,8 @@ Shrivastava, S.V., & Date, H. (2010). Distributed Agile Software Development: A 
 Ramesh, B., Cao, L., Mohan, K., & Xu, P. (2006). Can distributed software development be agile? Commun. ACM, 49, 41-46.
 
 Paasivaara, M., Durasiewicz, S., & Lassenius, C. (2008). Using scrum in a globally distributed project: A case study. Software Process: Improvement and Practice, 13(6), 527–544. https://doi.org/10.1002/spip.402
+
+Hofstede Insights. (2021, June 22). Compare countries. Retrieved May 29, 2022, from https://www.hofstede-insights.com/product/compare-countries/
 
 <!-- Paasivaara, M., Durasiewicz, S., & Lassenius, C. (2009). Using Scrum in Distributed Agile Development: A Multiple Case Study. 2009 Fourth IEEE International Conference on Global Software Engineering, 195–204. https://doi.org/10.1109/ICGSE.2009.27 -->
 
